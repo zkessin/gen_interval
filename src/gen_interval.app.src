@@ -1,0 +1,9 @@
+%%-*- mode: erlang -*-
+{application, gen_interval,
+ [
+  {description, "Run a function periodicly"},
+  {vsn, "1"},
+  {modules, []},
+  {registered, []}
+
+ ]}.
